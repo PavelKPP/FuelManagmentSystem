@@ -1,5 +1,3 @@
-package com.coursework;
-
 import javax.imageio.ImageIO;
 import java.applet.Applet;
 import java.awt.*;
